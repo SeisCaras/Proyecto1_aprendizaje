@@ -2,7 +2,7 @@
 proyecto
 
 ### Actividades a desarrollar
-1. Investigar acerca de las siguientes variantes del algoritmo: (a) Stochastic Gradient Descent y (b) Mini-batch Gradient Descent. ¿Cuáles son las diferencias y las ventajas/desventajas entre estas variantes? ¿cuáles son las condiciones bajo las cuales se prefieren aplicar estas variantes?
+1. Investigar acerca de: (a) Stochastic Gradient Descent y (b) Mini-batch Gradient Descent. ¿Cuáles son las diferencias y las ventajas/desventajas entre estas variantes? ¿cuáles son las condiciones bajo las cuales se prefieren aplicar estas variantes?
 
 2. Implementar en Python algoritmos "Multivariate Linear Regression" para la solución del problema (-A-), en sus variantes: 
 
@@ -12,7 +12,7 @@ proyecto
 
       (c) Stochastic Gradient Descent y 
 
-      (d) Mini-batch Gradient Descent; comparar las soluciones obtenidas.
+      (d) Mini-batch Gradient Descent; 
 
 3. Analizar los datos del problema (-B-) y plantear una solución mediante regresión lineal empleando la librería sklearn.
 
